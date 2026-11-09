@@ -1,0 +1,14 @@
+{
+  "header": "\u003d\u003d\u003d Vote for fjornlabs \u003d\u003d\u003d",
+  "footer": "Thanks for supporting me!",
+  "links": [
+    {
+      "label": "Github",
+      "url": "https://www.github.com/fjornlabs"
+    }
+  ],
+  "headerColor": "GOLD",
+  "footerColor": "YELLOW",
+  "labelColor": "AQUA",
+  "clickColor": "GREEN"
+}
